@@ -1,0 +1,258 @@
+alcoa.com: No DMARC record
+afginc.com: No DMARC record
+academy.com: No DMARC record
+adm.com: p=none
+alticeusa.com: p=none
+americantower.com: p=none
+allstate.com: p=none
+albertsons.com: p=none
+agcocorp.com: p=none
+about.facebook.com: No DMARC record
+activisionblizzard.com: No DMARC record
+ajg.com: p=none
+53.com: p=none
+ameriprise.com: p=none
+appliedmaterials.com: p=none
+arkocorp.com: No DMARC record
+arconic.com: p=none
+amwaygrand.com: No DMARC record
+andersonsinc.com: p=none
+asburyauto.com: p=none
+analog.com: p=none
+assurant.com: p=none
+apa.org: p=none
+att.com: p=none
+amgen.com: p=none
+audi.com: No DMARC record
+autonation.com: No DMARC record
+avnet.com: p=none
+ball.com: p=none
+averydennison.com: p=none
+bc.com: p=none
+becn.com: p=none
+boeing.com: p=none
+borgwarner.com: No DMARC record
+berryglobal.com: p=none
+bldr.com: p=none
+autozone.com: No DMARC record
+brighthousefinancial.com: p=none
+bostonscientific.com: p=none
+caesars.com: p=none
+cardinalhealth.com: p=none
+caterpillar.com: No DMARC record
+cascadeng.com: No DMARC record
+cdw.com: p=none
+caseys.com: p=none
+celanese.com: No DMARC record
+cheniere.com: No DMARC record
+cfindustries.com: p=none
+centerpointenergy.com: p=none
+chevron.com: p=none
+chevrolet.com: p=none
+chrobinson.com: p=none
+chrysler.com: No DMARC record
+chs.net: p=none
+cognizant.com: p=none
+conocophillips.com: p=none
+corporate.carrier.com: No DMARC record
+corporate.charter.com: No DMARC record
+corporate.comcast.com: No DMARC record
+cooperstandard.com: No DMARC record
+corporate.exxonmobil.com: No DMARC record
+costco.com: p=none
+csx.com: p=none
+cummins.com: p=none
+dcpmidstream.com: No DMARC record
+devonenergy.com: No DMARC record
+davita.com: p=none
+dickssportinggoods.com: p=none
+discover.com: p=none
+dish.com: p=none
+dmc.org: No DMARC record
+dollartree.com: p=none
+dollargeneral.com: p=none
+dominos.com: p=none
+dovercorporation.com: No DMARC record
+drhorton.com: p=none
+dteenergy.com: p=none
+duke-energy.com: p=none
+dupont.com: p=none
+dxc.com: p=none
+emerson.com: p=none
+edison.com: p=none
+edustaff.org: No Answer
+enlink.com: No DMARC record
+equinix.se: No DMARC record
+equitableholdings.com: No DMARC record
+enterpriseproducts.com: No DMARC record
+eversource.com: p=none
+familychristian.com: p=none
+expeditors.com: p=none
+firstmerchants.com: p=none
+flagstar.com: p=none
+franklinresources.com: No DMARC record
+frontier.com: p=none
+genpt.com: p=none
+gentex.com: p=none
+gentherm.com: p=none
+ge.com: p=none
+gilead.com: p=none
+genworth.com: p=none
+globalpayments.com: No DMARC record
+globalp.com: p=none
+gm.com: p=none
+goodyear.com: p=none
+grainger.com: p=none
+graphicpkg.com: p=none
+greenridge.com: No Answer
+graybar.com: p=none
+group1auto.com: p=none
+gwcnweb.org: No DMARC record
+hcahealthcare.com: p=none
+henryford.com: No DMARC record
+henryschein.com: p=none
+hess.com: No DMARC record
+honeywell.com: p=none
+horizonbank.com: p=none
+hfsinclair.com: No DMARC record
+hpe.com: p=none
+huntsman.com: p=none
+ibm.com: p=none
+independentbank.com: No DMARC record
+ingredion.com: No DMARC record
+inova.org: No DMARC record
+intel.com: p=none
+internationalpaper.com: No DMARC record
+investor.campingworld.com: No DMARC record
+ir.diamondbackenergy.com: No DMARC record
+ir.hertz.com: No DMARC record
+ir.regions.com: No DMARC record
+ir.united.com: No DMARC record
+jackson.com: p=none
+ir.yumchina.com: No DMARC record
+keycorpltd.com: No DMARC record
+kimberly-clark.com: No DMARC record
+kindermorgan.com: No DMARC record
+kla.com: p=none
+la-z-boy.com: No DMARC record
+landing.pseg.com: No DMARC record
+kroger.com: p=none
+landolakesinc.com: p=none
+lear.com: p=none
+leidos.com: p=none
+lennar.com: p=none
+libertymedia.com: p=none
+libertymutualgroup.com: No DMARC record
+lincolnfinancial.com: No DMARC record
+lkqcorp.com: p=none
+lowes.com: p=none
+marathonpetroleum.com: p=none
+manpowergroup.com: p=none
+lpl.com: p=none
+markel.com: p=none
+marvel.com: p=none
+maryfreebed.com: p=none
+masco.com: p=none
+mastec.com: p=none
+mastercard.us: p=none
+maytag.com: p=none
+mcdonalds.com: p=none
+mckesson.com: p=none
+mercbank.com: p=none
+metlife.com: p=none
+mohawkind.com: p=none
+molsoncoors.com: p=none
+newellbrands.com: No Answer
+my.xcelenergy.com: No DMARC record
+newlook.dteenergy.com: No DMARC record
+nationwide.com: p=none
+mutualofomaha.com: No Answer
+newyorklife.com: p=none
+nexteraenergy.com: p=none
+nike.com: p=none
+northerntrust.com: p=none
+nrg.com: p=none
+northropgrumman.com: No DMARC record
+odb.org: p=none
+oldnational.com: p=none
+olin.com: p=none
+onsemi.com: p=none
+oneok.com: p=none
+oracle.com: p=none
+oreillyauto.com: No DMARC record
+owens.edu: No DMARC record
+ovintiv.com: p=none
+packagingcorp.com: p=none
+paramount.com: No DMARC record
+pbfenergy.com: p=none
+pepsico.com: p=none
+pfgc.com: p=none
+pg.co.uk: p=none
+plains.com: p=none
+phillips66.com: p=none
+polaris.com: p=none
+ppg.com: p=none
+pplindia.org: No DMARC record
+principal.com: p=none
+qualcomm.com: p=none
+prudential.com: No DMARC record
+pvh.com: p=none
+progressive.com: p=none
+questdiagnostics.com: p=none
+quickenloans.com: p=none
+republicservices.com: p=none
+rgare.com: p=none
+riteaid.com: p=none
+rocketcompanies.com: p=none
+rossstores.com: No DMARC record
+rsac.com: p=none
+ryder.com: p=none
+saic.com: p=none
+sanmina.com: p=none
+seaboardcorp.com: p=none
+securian.com: p=none
+shop.hasbro.com: No DMARC record
+shop.advanceautoparts.com: No DMARC record
+sonicautomotive.com: No DMARC record
+sparrow.org: p=none
+spartannash.com: p=none
+spglobal.com: p=none
+stanleyblackanddecker.com: p=none
+statestreet.com: p=none
+starbucks.com: p=none
+stld.steeldynamics.com: No DMARC record
+swn.com: p=none
+sysco.com: p=none
+targaresources.com: p=none
+taylormorrison.com: p=none
+tenethealth.com: p=none
+thermofisher.com: p=none
+thewaltdisneycompany.com: No DMARC record
+tenneco.com: p=none
+thorindustries.com: No DMARC record
+thrivent.com: p=none
+ti.com: p=none
+ugicorp.com: No DMARC record
+unfi.com: p=none
+tiaa.org: p=none
+unitedhealthgroup.com: p=none
+us.jll.com: No DMARC record
+usfoods.com: p=none
+varnumlaw.com: p=none
+viatris.com: p=none
+walgreensbootsalliance.com: p=none
+vrtx.com: p=none
+wabteccorp.com: p=none
+valero.com: p=none
+wbd.com: p=none
+wellsfargo.com: p=none
+wesco.com: p=none
+weyerhaeuser.com: No Answer
+westernsouthern.com: p=none
+westrock.com: p=none
+whirlpoolindia.com: p=none
+xpo.com: p=none
+xerox.com: No DMARC record
+williamsf1.com: p=none
+zillowgroup.com: p=none
+zimmerbiomet.com: p=none
